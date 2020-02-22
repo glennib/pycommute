@@ -1,0 +1,16 @@
+name: pycommute
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - ipython
+  - jupyter
+  - notebook
+  - matplotlib
+  - numpy
+  - pip
+  - python=3.8.1
+  - pytz
+  - pip:
+    - googlemaps
+
