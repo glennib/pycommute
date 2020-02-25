@@ -41,6 +41,7 @@ with tqdm(total=N_total) as pbar:
                     'duration_text': duration_text,
                     'duration_value': duration_value,
                     'mode': mode,
+                    'status': status,
                 }
                 df = df.append(df_row, ignore_index=True)
             pbar.update(len(row['elements']))
