@@ -1,15 +1,12 @@
 {
-	"api_key": "ENTER API KEY",
 	"language": "english",
 	"units": "metric",
 	"time_zone": "CET",
-	"origins": [
-		"Kreml, Moscow, Russia",
-		"The White House, Washington, DC, USA",
-		"Government Quarter, Oslo, Norway"
-	],
 	"destinations": [
-		"Great Hall of the People, Beijing, China",
-		"Secretariat Building, New Dehli, India"
-	]
+	    "Lerkendal stadion, Trondheim, Trøndelag",
+	    "Ikea Leangen, Trondheim, Trøndelag"
+	],
+	"southwest": [63.418312, 10.358785],
+	"northeast": [63.438852, 10.481701],
+	"resolution": 2000
 }

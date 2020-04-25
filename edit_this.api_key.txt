@@ -1,0 +1,1 @@
+Paste the API key from your Google cloud account and store this file as `api_key.txt`.
