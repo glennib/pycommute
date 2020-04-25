@@ -13,6 +13,7 @@ dependencies:
   - pytz
   - gmaps
   - pandas
+  - pytables
   - pip:
     - googlemaps
 
