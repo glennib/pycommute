@@ -6,6 +6,10 @@
 	    "Lerkendal stadion, Trondheim, Trøndelag",
 	    "Ikea Leangen, Trondheim, Trøndelag"
 	],
+	"destination_labels": [
+		"Lerkendal Stadion",
+		"Ikea"
+	],
 	"southwest": [63.418312, 10.358785],
 	"northeast": [63.438852, 10.481701],
 	"resolution": 100
