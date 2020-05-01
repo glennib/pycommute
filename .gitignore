@@ -3,3 +3,5 @@ config.json
 .ipynb_checkpoints/
 .vscode/
 data/
+map_boundary.json
+__pycache__/
